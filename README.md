@@ -1,6 +1,4 @@
-# CRUD with Nodejs, Express and Mongodb
-
-![](docs/screenshot.png)
+### HAFIZ MUTAHAR HASHMI ASSIGNMENT 4 MAKING THE LIST APP USING CRUD OPERATION AND MONGO DB DATABASE STORAGE 
 
 This is a Multi page application using nodejs mongodb and handlebars
 
